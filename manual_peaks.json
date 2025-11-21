@@ -1,0 +1,432 @@
+{
+  "1-sorted": {
+    "temporal_peaks_h": [
+      6.078634964799123
+    ],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      203.89348080128417,
+      404.5954448632577,
+      660.5631671451949,
+      861.2651312071685,
+      1032.87985410074
+    ],
+    "spatial_deltas_um": [
+      200.7019640619735,
+      255.96772228193726,
+      200.7019640619735,
+      171.61472289357152
+    ],
+    "mean_spatial_um": 207.24659332486397,
+    "sem_spatial_um": 17.628204062575268
+  },
+  "10-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      460.1410448078873,
+      947.8820361917
+    ],
+    "spatial_deltas_um": [
+      487.7409913838127
+    ],
+    "mean_spatial_um": 487.7409913838127,
+    "sem_spatial_um": 0.0
+  },
+  "11-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      384.3613184757293,
+      711.1017460534506
+    ],
+    "spatial_deltas_um": [
+      326.7404275777213
+    ],
+    "mean_spatial_um": 326.7404275777213,
+    "sem_spatial_um": 0.0
+  },
+  "12-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      155.4755471953053,
+      360.90174891505984,
+      610.9858205738915,
+      816.412022293646,
+      1024.8154153426724,
+      1170.6977904769908
+    ],
+    "spatial_deltas_um": [
+      205.42620171975454,
+      250.08407165883165,
+      205.42620171975454,
+      208.40339304902636,
+      145.8823751343184
+    ],
+    "mean_spatial_um": 203.0444486563371,
+    "sem_spatial_um": 16.61368797387807
+  },
+  "13-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      501.78444776349573,
+      752.3452420232072,
+      1143.1007664044237
+    ],
+    "spatial_deltas_um": [
+      250.56079425971149,
+      390.75552438121645
+    ],
+    "mean_spatial_um": 320.65815932046394,
+    "sem_spatial_um": 70.09736506075248
+  },
+  "14-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      130.97655736778506,
+      273.28801237041694,
+      528.867768293511,
+      810.5863628905579,
+      1037.1229647314822,
+      1254.9466203477555
+    ],
+    "spatial_deltas_um": [
+      142.31145500263187,
+      255.579755923094,
+      281.71859459704694,
+      226.53660184092428,
+      217.8236556162733
+    ],
+    "mean_spatial_um": 224.79401259599408,
+    "sem_spatial_um": 23.498047609365624
+  },
+  "15-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      158.75271317983533,
+      278.06581703106855,
+      391.4132656897402,
+      513.7091971372543,
+      877.6141638835156,
+      1149.0514751450712
+    ],
+    "spatial_deltas_um": [
+      119.31310385123322,
+      113.34744865867162,
+      122.29593144751408,
+      363.9049667462614,
+      271.4373112615556
+    ],
+    "mean_spatial_um": 198.05975239304718,
+    "sem_spatial_um": 50.99326764102534
+  },
+  "16-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      352.7781402614376,
+      725.5006253880711
+    ],
+    "spatial_deltas_um": [
+      372.72248512663344
+    ],
+    "mean_spatial_um": 372.72248512663344,
+    "sem_spatial_um": 0.0
+  },
+  "17-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      498.964430780582,
+      986.5773919012372
+    ],
+    "spatial_deltas_um": [
+      487.6129611206552
+    ],
+    "mean_spatial_um": 487.6129611206552,
+    "sem_spatial_um": 0.0
+  },
+  "18-sorted": {
+    "temporal_peaks_h": [
+      1.8852532900667025,
+      4.048191487618205,
+      6.211129685169706
+    ],
+    "temporal_deltas_h": [
+      2.162938197551502,
+      2.162938197551502
+    ],
+    "mean_temporal_h": 2.162938197551502,
+    "sem_temporal_h": 0.0,
+    "spatial_peaks_um": [],
+    "spatial_deltas_um": [],
+    "mean_spatial_um": NaN,
+    "sem_spatial_um": NaN
+  },
+  "19-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      538.0202099709713,
+      970.547057006103
+    ],
+    "spatial_deltas_um": [
+      432.5268470351317
+    ],
+    "mean_spatial_um": 432.5268470351317,
+    "sem_spatial_um": 0.0
+  },
+  "2-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      439.3643356207917,
+      881.4659132718864
+    ],
+    "spatial_deltas_um": [
+      442.1015776510947
+    ],
+    "mean_spatial_um": 442.1015776510947,
+    "sem_spatial_um": 0.0
+  },
+  "20-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [],
+    "spatial_deltas_um": [],
+    "mean_spatial_um": NaN,
+    "sem_spatial_um": NaN
+  },
+  "21-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      371.65824391982096,
+      797.7357315163365,
+      1114.4149452705035
+    ],
+    "spatial_deltas_um": [
+      426.07748759651554,
+      316.679213754167
+    ],
+    "mean_spatial_um": 371.37835067534127,
+    "sem_spatial_um": 54.699136921174265
+  },
+  "22-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      217.50089074415598,
+      363.2398545860699,
+      569.4742373812311,
+      756.4600777821772,
+      1031.439254842392,
+      1201.9263446197253
+    ],
+    "spatial_deltas_um": [
+      145.73896384191391,
+      206.2343827951612,
+      186.98584040094613,
+      274.97917706021485,
+      170.48708977733327
+    ],
+    "mean_spatial_um": 196.88509077511387,
+    "sem_spatial_um": 21.90533210076625
+  },
+  "23-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      277.6344668368427,
+      542.6943094307774,
+      816.6887534604625,
+      1051.9665912685616,
+      1314.0482333839127
+    ],
+    "spatial_deltas_um": [
+      265.05984259393466,
+      273.99444402968516,
+      235.2778378080991,
+      262.0816421153511
+    ],
+    "mean_spatial_um": 259.1034416367675,
+    "sem_spatial_um": 8.335415109237788
+  },
+  "24-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      229.3649790743646,
+      416.4871994127312,
+      511.5334065687268,
+      654.1027173027205,
+      859.0461014828361,
+      1141.2145289771984
+    ],
+    "spatial_deltas_um": [
+      187.12222033836656,
+      95.0462071559956,
+      142.56931073399375,
+      204.94338418011557,
+      282.1684274943623
+    ],
+    "mean_spatial_um": 182.36990998056677,
+    "sem_spatial_um": 31.385830453013522
+  },
+  "3-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      121.96592959174478,
+      275.5198680022028,
+      678.2368008145365,
+      840.4824715878506,
+      985.3446776354526
+    ],
+    "spatial_deltas_um": [
+      153.55393841045804,
+      402.7169328123337,
+      162.24567077331403,
+      144.86220604760206
+    ],
+    "mean_spatial_um": 215.84468701092698,
+    "sem_spatial_um": 62.391733398354994
+  },
+  "4-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      141.21917090279885,
+      394.33505968360066,
+      569.7903916793837,
+      699.2246529877482,
+      914.9484218350226,
+      1139.3011414361877
+    ],
+    "spatial_deltas_um": [
+      253.1158887808018,
+      175.455331995783,
+      129.4342613083645,
+      215.7237688472744,
+      224.35271960116506
+    ],
+    "mean_spatial_um": 199.61639410667777,
+    "sem_spatial_um": 21.49746256751765
+  },
+  "5-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      369.01777609959083,
+      819.049289734323
+    ],
+    "spatial_deltas_um": [
+      450.03151363473216
+    ],
+    "mean_spatial_um": 450.03151363473216,
+    "sem_spatial_um": 0.0
+  },
+  "6-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      793.4458206147531
+    ],
+    "spatial_deltas_um": [],
+    "mean_spatial_um": NaN,
+    "sem_spatial_um": NaN
+  },
+  "7-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      416.91355395777146,
+      637.8175404423364,
+      847.5365149529993
+    ],
+    "spatial_deltas_um": [
+      220.90398648456494,
+      209.71897451066286
+    ],
+    "mean_spatial_um": 215.3114804976139,
+    "sem_spatial_um": 5.592505986951038
+  },
+  "8-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      281.2912220430836,
+      606.7000532037737,
+      881.357048311879
+    ],
+    "spatial_deltas_um": [
+      325.40883116069006,
+      274.6569951081053
+    ],
+    "mean_spatial_um": 300.0329131343977,
+    "sem_spatial_um": 25.375918026292364
+  },
+  "9-sorted": {
+    "temporal_peaks_h": [],
+    "temporal_deltas_h": [],
+    "mean_temporal_h": NaN,
+    "sem_temporal_h": NaN,
+    "spatial_peaks_um": [
+      719.8910167239463,
+      1068.1828220051711
+    ],
+    "spatial_deltas_um": [
+      348.2918052812248
+    ],
+    "mean_spatial_um": 348.2918052812248,
+    "sem_spatial_um": 0.0
+  }
+}
